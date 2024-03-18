@@ -61,5 +61,7 @@
 🖱 [w3layouts - templates](https://w3layouts.com/)    
 🖱 [onepagelove - templates](https://onepagelove.com/)    
 🖱 [swiperjs - carrossel no react js](https://swiperjs.com/)    
-
+🖱 [animate.css - animações](https://animate.style/)    
+🖱 [AOS - animações de scroll](https://michalsnik.github.io/aos/)    
+🖱 [lottiefiles - arquivos de animação](https://lottiefiles.com/)    
 
