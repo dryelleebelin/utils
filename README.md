@@ -64,4 +64,4 @@
 🖱 [animate.css - animações](https://animate.style/)    
 🖱 [AOS - animações de scroll](https://michalsnik.github.io/aos/)    
 🖱 [lottiefiles - arquivos de animação](https://lottiefiles.com/)    
-
+🖱 [scrollrevealjs - scroll](https://scrollrevealjs.org/)    
