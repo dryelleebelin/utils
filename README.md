@@ -48,7 +48,7 @@
 🖱 [Remove.bg - remover fundo de imagens](https://www.remove.bg/pt-br/upload)   
 🖱 [HTML Preview - github.io](https://htmlpreview.github.io/)   
 🖱 [Netlify](https://app.netlify.com/)   
-🖱 [Firebasee - banco de dados](https://firebase.google.com/?hl=pt-br)   
+🖱 [Firebasee - banco de dados online](https://firebase.google.com/?hl=pt-br)   
 🖱 [ILoveIMG - edição de imagens](https://www.iloveimg.com/pt)   
 🖱 [colorpicker - seletor de cores](https://colorpicker.tools/pt/)   
 🖱 [JSON Web Tokens - verificação e decodificação de tokens](https://jwt.io/)   
@@ -65,3 +65,4 @@
 🖱 [AOS - animações de scroll](https://michalsnik.github.io/aos/)    
 🖱 [lottiefiles - arquivos de animação](https://lottiefiles.com/)    
 🖱 [scrollrevealjs - scroll](https://scrollrevealjs.org/)    
+🖱 [cmder - terminal](https://cmder.app/)    
