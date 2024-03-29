@@ -66,3 +66,8 @@
 🖱 [lottiefiles - arquivos de animação](https://lottiefiles.com/)    
 🖱 [scrollrevealjs - scroll](https://scrollrevealjs.org/)    
 🖱 [cmder - terminal](https://cmder.app/)    
+🖱 [wix - criação de websites](https://manage.wix.com/account/websites)    
+🖱 [husky - padronizando commits](https://typicode.github.io/husky/)    
+🖱 [commitlint - commit convencional](https://commitlint.js.org/)    
+🖱 [documentação - commit convencional](https://github.com/conventional-changelog/commitlint)    
+🖱 [documentação - commit convencional](https://sujeitoprogramador.com/guia-completo-do-commit-semantico/)    
