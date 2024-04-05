@@ -71,3 +71,6 @@
 🖱 [commitlint - commit convencional](https://commitlint.js.org/)    
 🖱 [documentação - commit convencional](https://github.com/conventional-changelog/commitlint)    
 🖱 [documentação - commit convencional](https://sujeitoprogramador.com/guia-completo-do-commit-semantico/)    
+🖱 [fullPage.js - animações de texto](https://alvarotrigo.com/blog/css-text-animations/)    
+🖱 [chakra ui - biblioteca de componentes react](https://chakra-ui.com/)    
+🖱 [ant design - biblioteca de componentes](https://ant.design/)    
